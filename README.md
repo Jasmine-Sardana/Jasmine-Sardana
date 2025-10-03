@@ -1,57 +1,52 @@
-#  Hey, I'm Jasmine Sardana
+# Hi, I'm Jasmine Sardana
+
 **Data Scientist | AI & NLP Enthusiast | LLM Explorer**
 
-*“Turning data into stories, one AI project at a time.”*  
-Currently building **RAG-powered AI assistants, AI assisted english learning app**  
+---
+
+## Current Focus
+- Developing RAG Systems for AI assistants
+- Building Predictive ML Models
+- Exploring Vector Databases and LLM Workflows
 
 ---
 
-##  Tech Stack
-
-| Skill | Level |
-|-------|-------|
-| Python | ![Python](https://img.shields.io/badge/-Advanced-blue) |
-| SQL  | ![SQL](https://img.shields.io/badge/-Intermediate-yellow) |
-| Java  | ![Java](https://img.shields.io/badge/-Intermediate-red) |
-| ML/AI | ![ML](https://img.shields.io/badge/-PyTorch-FF6F61) ![TF](https://img.shields.io/badge/-TensorFlow-orange) |
-| NLP & LLMs | ![HF](https://img.shields.io/badge/-HuggingFace-FF9900) ![LangChain](https://img.shields.io/badge/-LangChain-00FFAA) |
-| Tools | Git, Docker, n8n, ChromaDB, Supabase, GCP |
+## Tech Stack
+| Languages | ML & AI | Data & DB | Tools & Platforms |
+|----------|---------|-----------|-----------------|
+| Python | PyTorch, TensorFlow, Hugging Face, LangChain | Pandas, NumPy, ChromaDB, Supabase | Git, Docker, n8n, GCP |
 
 ---
 
-##  Featured Projects
-
-###  Resume Screening AI
-AI model that **scores resumes for job fit, suggests optimizations, and evaluates skills**.  
- **Tech:** Python, NLP, LLMs, Automation  
- [Repo/Details](#)
-
-###  Movie Rating Predictor
-Predicts ratings from **features like genre, cast, release info**, with ML pipelines for preprocessing and evaluation.  
- **Tech:** Python, Scikit-learn, Pandas, Feature Engineering
-
-###  Automated Lead Handling Workflow
-End-to-end AI workflow that **scores leads, drafts emails, updates Airtable**.  
- **Tech:** n8n, GPT API, Google Sheets, Supabase
-
-###  RFP Assistant with RAG
-Domain-specific **retrieval-augmented generation system** for fast, accurate RFP responses.  
- **Tech:** LLMs, Embeddings, ChromaDB, Context Management
+## Featured Projects
+1. Resume Screening AI – [Repo](#)  
+2. Movie Rating Predictor – [Repo](#)  
+3. Automated Lead Handling Workflow – [Repo](#)  
+4. RFP Assistant with RAG – [Repo](#)
 
 ---
 
-##  GitHub Stats
-![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine-sardana&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine-sardana&layout=compact&theme=radical)  
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasmine-sardana&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine-sardana&layout=compact&theme=radical)
 
 ---
 
-##  Learning Journey
-```text
-2023 ─ Started Data Science & ML projects
-2024 ─ Explored NLP, LLMs, RAG workflows
-2025 ─ Building production-ready AI assistants & predictive models
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jasmine-sardana-3b5294228/) | [Portfolio](#) | [Email](mailto:jasmine@example.com)
 
+---
 
+## Code Persona
+```python
+class Jasmine:
+    def __init__(self):
+        self.role = "AI & Data Science Explorer"
+        self.skills = ["Python", "ML/AI", "NLP", "RAG", "Automation"]
+        self.current_focus = ["RAG Systems", "Predictive Models", "AI Workflows"]
 
+    def passion(self):
+        return "Turning data into insights and AI into action!"
 
+    def motto(self):
+        return "Data + AI + Creativity = Impact"
