@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Jasmine-Sardana/Jasmine-Sardana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hey, I'm Jasmine Sardana
 **Data Scientist | AI & NLP Enthusiast | LLM Explorer**
 
@@ -56,3 +51,7 @@ Domain-specific **retrieval-augmented generation system** for fast, accurate RFP
 2023 ─ Started Data Science & ML projects
 2024 ─ Explored NLP, LLMs, RAG workflows
 2025 ─ Building production-ready AI assistants & predictive models
+
+
+
+
