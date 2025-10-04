@@ -32,17 +32,17 @@
 ### Nutrition Bot (In Progress)
 Full-stack AI assistant built entirely in Python, providing **personalized diet and nutrition recommendations** with a Python-based frontend and backend logic.  
 **Tech:** Python, NLP, LLMs, Streamlit, Pandas  
-[Repo/Details](#)
+[Repo/AI-bot](#)
 
 ### Data Extraction & Processing Pipeline
 Automated workflow that **extracts structured data from documents and websites, cleans it, and stores it for analytics or ML models**.  
 **Tech:** Python, Pandas, NLP, Web Scraping, Data Cleaning Tools  
-[Repo/Details](#)
+[Repo/Data_extraction](#)
 
 ### Automated Lead Handling Workflow
 Scores leads, drafts follow-up emails, and updates Airtable automatically.  
 **Tech:** n8n, GPT API, Google Sheets, Supabase  
-[Repo/Details](#)
+(#)
 
 ---
 
