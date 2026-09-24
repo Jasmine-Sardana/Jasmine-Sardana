@@ -3,7 +3,7 @@
 
 # Hi, I'm Jasmine Sardana
 
-### Data Scientist | AI & NLP Enthusiast | LLM Explorer
+### Software Enginner | AI & NLP Enthusiast | LLM Explorer
 
 Building intelligent applications with Python, Machine Learning, Natural Language Processing, and Generative AI.
 
